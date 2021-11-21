@@ -1,1 +1,5 @@
+# This blocklist helps Pi-hole's admin restrict access to tiktok and its domains.
+# Curated from  sources online. https://github.com/Fabeofficial/pihole-blocklist/edit/main/pihole.txt
+# Last updated: 21. Novembre 2021
 
+0.0.0.0 gzipbrowser.tk
